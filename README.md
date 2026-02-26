@@ -1,1 +1,1 @@
-# Clusteriza-o-Multivariada-de-V-lvulas-Industriais-na-ind-stria-offshore
+# Clusterizacao Multivariada de Valvulas na industria offshore
